@@ -175,6 +175,7 @@ body {
     font-size: 1.8rem;
     z-index: 999;
     user-select: none;
+    cursor: pointer;
 }
 
 .menu-navegacao {
